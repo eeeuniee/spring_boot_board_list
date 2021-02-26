@@ -11,11 +11,11 @@
 	
 	<!-- jquery cdn -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<!-- //#2 수정	 -->
+	
 </head>
 <body>
    <div class="container">
-   <h2 class="text">게시판목록</h2>
+   <h2 class="text">게시판</h2>
    <table class="table table-striped" width="500" border="1" >
       <tr>
          <td>번호</td>
