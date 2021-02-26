@@ -1,3 +1,4 @@
+//마스터
 package edu.bit.ex.board.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
